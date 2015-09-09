@@ -6,7 +6,7 @@
 支持PC和手机，支持Zepto。
 具备一定的可定制性和扩展性。
 
-**Demo地址：http://www.liyawei.cn/gesturepassword/**
+**Demo地址：http://acgit.org/project/gesturepassword/demo/**
 
 
 
@@ -80,7 +80,7 @@ $("#gesturepwd").on("hasPasswd",function(e,passwd){
          //密码验证错误后的其他操作。。。
 
     }
-}
+})
 
 
 ```

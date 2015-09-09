@@ -1,6 +1,7 @@
 
 
-var jQueryPlus=function( $ ){
+;
+(function ($) {
 
 
     var GesturePasswd= function (element, options) {
@@ -255,11 +256,5 @@ var jQueryPlus=function( $ ){
     $.fn.GesturePasswd.Constructor = GesturePasswd;
 
 
-};
 
-if (typeof (module) !== undefined) {
-    module.exports.jQueryPlus=jQueryPlus;
-}
-else{
-    jQueryPlus(jQuery);
-}
+})(jQuery);
