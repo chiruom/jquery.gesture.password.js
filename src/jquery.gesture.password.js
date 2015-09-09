@@ -18,7 +18,8 @@
             "width":this.options.width,
             "height":this.options.height,
             "background-color":options.backgroundColor,
-            "overflow":"hidden"
+            "overflow":"hidden",
+            "cursor":"default"
         });
 
 
