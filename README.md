@@ -6,7 +6,7 @@
 支持PC和手机，支持Zepto。
 具备一定的可定制性和扩展性。
 
-**Demo地址：http://www.liyawei.cn/**
+**Demo地址：http://www.liyawei.cn/gesturepassword/**
 
 
 
@@ -94,5 +94,5 @@ $("#gesturepwd").on("hasPasswd",function(e,passwd){
 
 你可以随意使用本项目，只需要在您的项目中添加这么一行注释：
 ```html
-jquery.danmu.js (//github.com/chiruom//) - Licensed under the MIT license
+jquery.danmu.js (//github.com/chiruom/jquery.gesture.password.js/) - Licensed under the MIT license
 ```
